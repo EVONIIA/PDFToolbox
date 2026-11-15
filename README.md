@@ -20,7 +20,7 @@ Les fichiers d'origine ne sont pas modifiés. Un enregistrement qui remplacerait
 
 ## Captures d'écran
 
-Les captures d'écran seront ajoutées ici avant la publication définitive. Aucune image d'interface n'est encore jointe à cette page.
+Dans le projet en .png
 
 ## Prérequis
 
