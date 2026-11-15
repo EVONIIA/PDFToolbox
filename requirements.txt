@@ -1,0 +1,12 @@
+# PDF Toolbox by EVONIIA
+# Python 3.11 ou version plus récente.
+#
+# PyInstaller construit les deux exécutables Windows.
+# Voir pdf_toolbox.spec : PDFTOOLBOX_BUILD=onedir ou onefile.
+
+customtkinter>=6.0.0,<7
+pypdf>=5.1.0,<8
+pypdfium2>=4.30,<6
+Pillow>=10.4.0,<14
+tkinterdnd2>=0.7.0,<0.8
+pyinstaller>=6.11.0,<7

@@ -1,0 +1,77 @@
+PROJET DE CONDITIONS D'UTILISATION
+PDF Toolbox by EVONIIA
+Version candidate 1.0.0
+
+Ce document est un projet. Il doit être vérifié par un conseil juridique avant toute distribution du logiciel. Il n'est pas un avis juridique et ne garantit pas une protection absolue.
+
+1. Éditeur
+
+PDF Toolbox by EVONIIA est un logiciel propriétaire d'EVONIIA.
+
+Les seuls liens officiels fournis à ce jour sont :
+
+- GitHub : https://github.com/EVONIIA
+- X : https://x.com/ApexEvoniia
+- Discord : https://discord.gg/Q5MbyF28j
+
+Aucune adresse postale, aucune forme juridique et aucune autre coordonnée ne sont indiquées ici, parce qu'elles n'ont pas été fournies.
+
+2. Acceptation
+
+L'installation ou l'utilisation du logiciel vaut acceptation du présent projet de conditions, une fois celui-ci adopté après vérification juridique. Tant que cette vérification n'a pas eu lieu, ce texte ne doit pas être présenté comme les conditions définitives.
+
+3. Utilisation autorisée
+
+EVONIIA autorise l'installation et l'utilisation personnelle du logiciel, à titre non exclusif et non transférable, sur les ordinateurs de l'utilisateur.
+
+Cette autorisation ne comprend pas la revente, la location, ni la mise à disposition du logiciel à des tiers à titre commercial.
+
+4. Exécutables
+
+La redistribution des exécutables est interdite en dehors des canaux autorisés par EVONIIA.
+
+Un canal autorisé est une publication qu'EVONIIA désigne elle-même, notamment une publication officielle associée au compte GitHub https://github.com/EVONIIA. Copier l'exécutable vers un autre site, un autre dépôt ou un support destiné à le rediffuser n'est pas autorisé sans accord écrit.
+
+5. Code, interface et identité
+
+Le code source, l'interface, les éléments graphiques propres à PDF Toolbox, les logos propres à EVONIIA et l'identité EVONIIA restent la propriété d'EVONIIA.
+
+Sans autorisation écrite préalable, il n'est pas permis de les copier pour un autre produit, de les présenter comme les siens, ni de créer une œuvre dérivée destinée à être diffusée.
+
+Les signes des services tiers éventuellement affichés pour rejoindre les comptes officiels, notamment Discord, X et GitHub, restent la propriété de leurs titulaires.
+
+6. Modification et décompilation
+
+La modification du logiciel et sa décompilation sont interdites, sauf dans les cas où une loi applicable reconnaît un droit qui ne peut pas être écarté, par exemple une exception légale d'interopérabilité.
+
+Cette interdiction ne retire pas un droit que la loi applicable impose de laisser à l'utilisateur.
+
+7. Dépôt public
+
+Si le code est consultable dans un dépôt GitHub public, les fonctions de consultation et de fork de cette plateforme s'exercent selon les conditions de GitHub et selon le fichier LICENSE.
+
+Ces fonctions ne remplacent pas les présentes conditions et n'autorisent pas la redistribution des exécutables.
+
+8. Composants tiers
+
+Le logiciel utilise des composants tiers. Chacun reste soumis à sa propre licence. L'utilisateur doit respecter ces licences. Leur liste figure dans LICENSES.md. Ces composants n'appartiennent pas à EVONIIA.
+
+9. Garantie et responsabilité
+
+Le logiciel est fourni en l'état, dans la limite de ce que la loi applicable permet.
+
+EVONIIA ne promet pas que le logiciel sera exempt d'erreur, ni qu'il conviendra à un usage particulier. Les documents traités restent sous la responsabilité de l'utilisateur, qui doit en conserver une copie.
+
+EVONIIA n'est pas responsable des dommages indirects, dans la limite de ce que la loi applicable permet. Rien dans ces conditions n'écarte une responsabilité qui ne peut pas légalement être écartée, notamment en cas de faute dolosive ou de disposition impérative protectrice de l'utilisateur.
+
+10. Durée
+
+L'autorisation d'utilisation personnelle est accordée pour la version fournie. EVONIIA peut faire cesser une utilisation qui contrevient à ces conditions, sans retirer un droit impératif de l'utilisateur.
+
+11. Droit applicable
+
+Le droit applicable et la juridiction compétente devront être confirmés lors de la vérification juridique, selon la situation réelle d'EVONIIA. Ils ne sont pas fixés dans ce projet.
+
+12. Contact
+
+Pour une demande d'autorisation écrite, EVONIIA peut être contactée par les liens officiels indiqués à l'article 1. Aucune autre adresse ne doit être déduite de ce document.

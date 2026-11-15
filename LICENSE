@@ -1,0 +1,34 @@
+Copyright (c) 2026 EVONIIA. All rights reserved.
+
+PDF Toolbox by EVONIIA est un logiciel propriétaire d'EVONIIA.
+
+Le logiciel, son code source, son interface, ses éléments graphiques et sa documentation sont la propriété d'EVONIIA. Ils sont protégés par le droit d'auteur et les autres droits de propriété intellectuelle applicables. Cette licence n'est pas une licence open source.
+
+## Dépôt public
+
+EVONIIA peut publier ce dépôt en accès public. Cette publication accepte les fonctions de consultation et de fork que la plateforme GitHub prévoit pour un dépôt public.
+
+Ces fonctions permettent de consulter le dépôt et d'en créer une copie par les outils de GitHub, notamment un fork. Elles ne donnent aucun autre droit. Un fork reste soumis au présent texte. Il n'autorise pas, à lui seul, à utiliser le logiciel, à le modifier en dehors de la plateforme, à redistribuer le code ou les exécutables, ni à l'exploiter commercialement.
+
+EVONIIA ne prétend pas interdire les fonctions de GitHub auxquelles elle consent en rendant le dépôt public.
+
+## Droits réservés
+
+Sans autorisation écrite préalable d'EVONIIA, aucune autorisation générale n'est accordée pour :
+
+- utiliser le logiciel à d'autres fins que celles prévues par les conditions d'utilisation ou par une autorisation écrite d'EVONIIA ;
+- copier ou redistribuer le logiciel ou son code source en dehors des fonctions de consultation et de fork du dépôt public ;
+- modifier le logiciel ou créer des œuvres dérivées en dehors de ces fonctions ;
+- commercialiser le logiciel ou ses composants propriétaires.
+
+Les droits qui ne sont pas expressément accordés restent réservés à EVONIIA.
+
+L'installation et l'utilisation de l'exécutable distribué sont prévues par le projet de conditions d'utilisation EULA.txt. Ce projet doit être vérifié avant toute distribution.
+
+## Composants tiers
+
+Les composants tiers inclus ou utilisés avec le logiciel restent la propriété de leurs titulaires respectifs et sont soumis à leurs propres licences. Ces composants n'appartiennent pas à EVONIIA. Leur liste figure dans le fichier LICENSES.md.
+
+## Portée de ce texte
+
+Ce texte exprime la position d'EVONIIA sur ses droits et sur la publication publique du dépôt. Il ne constitue pas un avis juridique et ne garantit pas, à lui seul, une protection absolue. Les conditions de GitHub peuvent évoluer et doivent être relues avant la publication.
